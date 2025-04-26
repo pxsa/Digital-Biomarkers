@@ -1,7 +1,7 @@
 # Anxiety Detection Using Digital Biomarkers and Machine Learning
 
 ## 📌 Abstract  
-This study explores the relationship between **digital biomarkers** (e.g., hormonal levels, heart rate variability, and sleep patterns) and anxiety disorders using machine learning algorithms. By analyzing clinical and biological data from patients, models such as **SVM**, **Random Forest**, and **Neural Networks** achieved over **85% accuracy** in distinguishing individuals with anxiety from healthy controls. The research highlights the potential of integrating AI and molecular data for early diagnosis and personalized treatment of anxiety.
+This study explores the relationship between **digital biomarkers** (e.g., hormonal levels, heart rate variability, and sleep patterns) and anxiety disorders using machine learning algorithms. The research highlights the potential of integrating AI and molecular data for early diagnosis and personalized treatment of anxiety.
 
 ---
 
@@ -20,9 +20,9 @@ This study explores the relationship between **digital biomarkers** (e.g., hormo
 ---
 
 ## 🔬 Methodology  
-- **Data**: Biological samples + clinical records (anxiety patients vs. controls).  
-- **Preprocessing**: Feature selection using **PCA** and **SelectKBest**.  
-- **Models**: SVM, Random Forest, and Neural Networks.  
+- **Data**  
+- **Preprocessing**
+- **Models**
 
 ---
 
