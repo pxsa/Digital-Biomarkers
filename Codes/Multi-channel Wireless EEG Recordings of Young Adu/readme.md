@@ -1,3 +1,5 @@
+## Road Map
+
 - [ ] Obtain and inspect the dataset
 - [ ] Understand its structure and labels
 - [ ] Load the EEG files
