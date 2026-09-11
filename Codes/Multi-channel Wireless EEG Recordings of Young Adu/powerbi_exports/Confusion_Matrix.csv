@@ -1,0 +1,5 @@
+Actual,Predicted,Count
+Control,Control,1341
+Control,Anxiety,894
+Anxiety,Control,596
+Anxiety,Anxiety,2831

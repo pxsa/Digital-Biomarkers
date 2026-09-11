@@ -1,0 +1,15 @@
+Model,Accuracy,Precision,Recall,F1_Score
+AttentionTransformer_Stabilized,73.68,76.0,82.61,79.17
+AttentionTransformer_Stabilized,73.68,76.0,82.61,79.17
+AttentionTransformer_Stabilized,71.05,75.0,78.26,76.6
+AttentionTransformer_Stabilized,65.79,75.0,65.22,69.77
+AttentionTransformer_Stabilized,65.79,75.0,65.22,69.77
+SVM_RBF,61.94,67.8,70.7,69.22
+RandomForest,58.14,62.82,75.58,68.61
+MLP,60.86,66.81,70.24,68.48
+GradientBoosting,59.22,64.72,71.72,68.04
+XGBoost,59.04,64.68,71.23,67.8
+LogisticRegression,55.99,63.78,63.15,63.46
+Attention_Simple_HighPerf,60.53,72.22,56.52,63.41
+AttentionTransformer,55.26,65.0,56.52,60.47
+AttentionTransformer,55.26,65.0,56.52,60.47
